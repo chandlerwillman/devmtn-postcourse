@@ -1,0 +1,12 @@
+// Common commands in bash
+
+~ pwd                           // present working directy
+~ ls                            // list files in the pwd
+~ cd {filename}                 // change directory to the file listed in the directory
+~ clear                         // clears the terminal, doesn't change anything
+~ cd ..                         // change directory to parent folder
+~ cd {child-folder}/{file}      // you can go down as manay levels as you want with the "/"
+~ mkdir {foldername}            // makes a new directory in the pwd
+~ touch {filename}              // makes a new file in the pwd
+~ rm {filename}                 // removes file
+~ rm -rf {foldername}           // removes the folder and everything below it

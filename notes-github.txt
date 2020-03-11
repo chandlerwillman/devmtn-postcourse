@@ -1,0 +1,15 @@
+// In github.com
+
+- Create a new repo
+- Copy repo link to clipboard
+
+
+// In terminal
+
+~ pwd                                       // shows current working directory
+~ cd {directory name}                       // changes directory into the one specified
+~ git clone {past copied github repo url}   // connects local directory to github repo
+~ touch {filename}                          // makes a new file in the directory
+~ git add .                                 // adds all changed files
+~ git commit -m "initial commit"            // commits your changes with a message
+~ git push origin master                    // pushes the committed changes to github repo
